@@ -1,0 +1,26 @@
+<swiper class="slides">
+	<swiper-item>
+		<image />
+	</swiper-item>
+</swiper>
+<view class="heading">
+	<text class="name"></text>
+	<text class="phone"></text>
+	<text class="address"></text>
+	<text class="hours"></text>
+	<view class="score"></view>
+</view>
+<view class="introduction">
+	<text></text>
+</view>
+<view class="comments">
+	<view class="item">
+		<text class="name"></text>
+		<text class="date"></text>
+		<text class="rating"></text>
+		<text class="content"></text>
+		<view class="images">
+			<image />
+		</view>
+	</view>
+</view>
